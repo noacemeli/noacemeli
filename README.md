@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noa</h1>
-<h3 align="center">A baby web developer programmer from Spain uwu🌸</h3>
+<h3 align="center">A baby web developer & programmer from Spain uwu🌸</h3>
 
 - 🔭 I’m currently studying a **CFGS in Web Developement**
 
