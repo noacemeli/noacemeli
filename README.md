@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying a **CFGS in Web Developement**
 
-- 🌱 I’m currently learning **JS, PHP, Java,**
+- 🌱 I’m learning **Javascript and Java**
 
 - 💬 Ask me about **not much really, no questions allowed.**
 
