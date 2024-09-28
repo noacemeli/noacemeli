@@ -6,7 +6,7 @@
 <h3 align="center">Web development student 
 Programmer wannabe uwu🌸</h3>
 
-## 💫 About Me:
+# 💫 About Me:
 👩🏻‍💻 Web Development Student<br>
 👩🏻‍🎓 Web Development Profesional Degree (EQF 5)<br>
 🎮 Passionate about videogames and technology<br>
