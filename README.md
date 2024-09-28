@@ -12,11 +12,6 @@
 💭 My profesional objective is to pursue a career as a programmer
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=noacemeli&logoColor=white)](https://linkedin.com/in/noacemeli) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=noacemeli&logoColor=white)](https://instagram.com/noacemeli) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=noacemeli&logoColor=white)](https://x.com/noacemeli) 
-
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
