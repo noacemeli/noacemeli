@@ -6,14 +6,14 @@
 <h3 align="center">Web development student 
 Programmer wannabe uwu🌸</h3>
 
-# 💫 About Me:
+## 💫 About Me:
 👩🏻‍💻 Web Development Student<br>
 👩🏻‍🎓 Web Development Profesional Degree (EQF 5)<br>
 🎮 Passionate about videogames and technology<br>
 💭 My profesional objective is to pursue a career as a programmer
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
