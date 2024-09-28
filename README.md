@@ -3,14 +3,14 @@
 
 </h1>
 
-<h3 align="center">Web development student 
+<h3 align="center">Web development student<br>
 Programmer wannabe uwu🌸</h3>
 
 ## 💫 About Me:
 👩🏻‍💻 Web Development Student<br>
-👩🏻‍🎓 Web Development Profesional Degree (EQF 5)<br>
-🎮 Passionate about videogames and technology<br>
-💭 My profesional objective is to pursue a career as a programmer
+👩🏻‍🎓 Web Development Professional Degree (EQF 5)<br>
+🎮 Passionate about video games and technology<br>
+💭 My professional objective is to pursue a career as a programmer
 
 
 ## 💻 Tech Stack:
