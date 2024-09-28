@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&color=pink&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+🫶🏻;+I'm+Noa+Cemeli!;" />
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F69CBA&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%AB%B6%F0%9F%8F%BB;I'm+Noa+Cemeli!)](https://git.io/typing-svg)
 </h1>
 <h3 align="center">A baby web developer & programmer from Spain uwu🌸</h3>
 
