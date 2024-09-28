@@ -3,7 +3,8 @@
 
 </h1>
 
-<h3 align="center">A baby developer & programmer from Spain uwu🌸</h3>
+<h3 align="center">Web development student 
+Programmer wannabe uwu🌸</h3>
 
 ## 💫 About Me:
 👩🏻‍💻 Web Development Student<br>
